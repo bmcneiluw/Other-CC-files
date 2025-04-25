@@ -1,5 +1,15 @@
 Places in various files that need file path changed
 
+format
+file name
+-line number
+--variable to change
+
+Hamiltonian
+-line 15
+--file_path 
+
+
 Periodic
 -line 14
 --file_path_folder
